@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### Projects
+- [Coinando.com](https://coinando.com)
+- [StakingCrypto.info](https://stakingcrypto.info)
+- [DubaiThingsToDo.ae](https://dubaithingstodo.ae)
+
 <!--
 **tomasrc/tomasrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
